@@ -10,7 +10,9 @@ A text editor made with Python made by myself, Alexis(`grisou#9122` on discord) 
 ### setup:
 run the following commands inside of your terminal
 ```
-cd <path-to-EddyT>
+git clone https://github.com/ken-soares/EddyT.git
+cd EddyT
 pip install -r requirements.txt
+chmod +x main.py
 ```
 to run, execute `main.py`
