@@ -1,5 +1,5 @@
 # EddyT
-A text editor made with Python made by myself, Alexis(`grisou#9122`) and [Mélusine](https://github.com/meowlusine)
+A text editor made with Python made by myself, Alexis(`grisou#9122` on discord) and [Mélusine](https://github.com/meowlusine)
 
 
 ## Install
